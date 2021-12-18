@@ -34,5 +34,6 @@ I am Aditya aka Intervier, a self-taught Developer, who loves programming in a c
   
   
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intervier22&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intervier22)](https://github.com/Intervier22/github-readme-stats)
+
 </div>
