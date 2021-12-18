@@ -3,7 +3,7 @@
 I am Aditya aka Intervier, a self-taught Developer, who loves programming in a creative manner.
 
 
-- 🔭 Currently Working on [Python website](https://github.com/BIGBEASTISHANK/login_website).
+- 🔭 Currently Working on [Python website](https://github.com/Intervier22/Python-Blog-Website).
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about anything [here](https://github.com/Intervier22/Intervier22/issues).
 - 💪 Mastering Python.
