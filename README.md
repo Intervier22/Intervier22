@@ -8,9 +8,12 @@ I am Aditya aka Intervier, a self-taught Developer, who loves programming in a c
 # My Socials
 
 <a href="https://instagram.com/mradityaraj22">
-  <img align="left" alt="Intervier | Twitch" width="21px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png">
+  <img align="left" alt="Intervier | Instagram" width="21px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png">
 </a>
 <br />
+<a href="https://instagram.com/mradityaraj22">
+  <img align="left" alt="Intervier | Twitch" width="21px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png">
+</a>
 
 # Tools and Languages
 <br />
@@ -26,12 +29,8 @@ I am Aditya aka Intervier, a self-taught Developer, who loves programming in a c
 
 <div align="center">
   
-### Overall Stats
-![Intervier's github stats](https://github-readme-stats.vercel.app/api?username=Intervier22&count_private=true&theme=great-gatsby)
-  
-  
-  
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intervier22&theme=great-gatsby)
+### Most Used Languages & Overall Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intervier22&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=100) ![Intervier22's github stats](https://github-readme-stats.vercel.app/api?username=Intervier22&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 </div>
+
